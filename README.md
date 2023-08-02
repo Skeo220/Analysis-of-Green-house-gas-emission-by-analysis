@@ -5,3 +5,5 @@ To achieve this, a cluster analysis was meticulously conducted, successfully rev
 
 For a more detailed exploration of our findings, insights, and methodologies, kindly refer to the Python notebook provided above. 
 This notebook offers a comprehensive overview of the entire analysis, enabling a deeper understanding of the intricacies in greenhouse gas emissions and their implications for the international community.
+
+**I plan to release a part 2 for this project shortly because this dataset contains so many valuable insights.**
